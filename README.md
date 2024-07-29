@@ -1,4 +1,4 @@
 # MyPython-Basics
-These are my Python Basic files.
+These are my Basic Python working files.
 <br>
 Author - Samarpan Kumar
