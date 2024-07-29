@@ -1,4 +1,4 @@
 # MyPython-Basics
-This is my first Git Repository
+These are my Python Basic files.
 <br>
 Author - Samarpan Kumar
